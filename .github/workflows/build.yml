@@ -7,7 +7,7 @@ on:
       - pipelines/**
   workflow_dispatch:
 env:
-  AWS_REGION: us-east-2
+  AWS_REGION: us-east-1
   SAGEMAKER_PROJECT_NAME: mlops-demo
 
 jobs:
