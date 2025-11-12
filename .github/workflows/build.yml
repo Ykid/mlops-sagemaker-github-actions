@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 env:
   AWS_REGION: us-east-2
-  SAGEMAKER_PROJECT_NAME: mlops-demo
+  SAGEMAKER_PROJECT_NAME: david-mlops-demo-2
 
 jobs:
   Build:
